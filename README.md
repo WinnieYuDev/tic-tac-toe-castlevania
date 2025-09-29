@@ -1,6 +1,4 @@
 # Tic Tac Toe Castlevania
-
-# Description
 Tic Tac Toe game based on the popular Netflix Series Castlevania which was adopted by a videogame made by Konami. Two players can select their favorite Castlevania characters to play as before starting the game.
 
 Players take turn placing their moves with their unique weapons and the first to get three in a row wins or the game ends in a draw
