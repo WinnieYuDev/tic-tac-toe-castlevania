@@ -28,5 +28,5 @@ Players take turn placing their moves with their unique weapons and the first to
 - I think I could have done better with code reusuability. Will look into changing the code by using "this.name"
 
 # Future Updates
-- Creating an OOP version with class, constructors, use of this, encapsulation and more in JS
+- Creating a full OOP version with class, constructors, use of this, encapsulation and more in JS
 - Better styling format
