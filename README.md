@@ -3,9 +3,8 @@ Tic Tac Toe game based on the popular Netflix Series Castlevania which was adopt
 
 Players take turn placing their moves with their unique weapons and the first to get three in a row wins or the game ends in a draw
 
-![alt text](image.png)
-
-![alt text](image-2.png)
+<img width="1876" height="893" alt="image" src="https://github.com/user-attachments/assets/670a342a-39cc-476e-b04d-948289c460ed" />
+<img width="1889" height="890" alt="image-2" src="https://github.com/user-attachments/assets/10dcd5ef-343a-4e36-821d-1236e40b2213" />
 
 # Lessons Learned
 
