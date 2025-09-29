@@ -1,22 +1,30 @@
-# 📊 Morning Challenge: Tic-Tac-Toe
+# Tic Tac Toe Castlevania
 
-### Goal: Create a two player Tic-Tac-Toe game. The users should be able to click to place their X or O and if they win the program should mention their win in the DOM. Please make the game as OOP as possible.
+# Description
+Tic Tac Toe game based on the popular Netflix Series Castlevania which was adopted by a videogame made by Konami. Two players can select their favorite Castlevania characters to play as before starting the game.
 
-### How to submit your code for review:
+Players take turn placing their moves with their unique weapons and the first to get three in a row wins or the game ends in a draw
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![alt text](image.png)
 
-Example:
-```
-I completed the challenge: 5
+![alt text](image-2.png)
+
+# Lessons Learned
+
+- Using classes and objects in JavaScript to manage avatars and game state
+- Creating and updating DOM elements dynamically
+- Handling user input through click events
+- Using conditional statements to check game-winning 
+- Implementing responsive design with CSS flexbox and media queries
+- Managing game state and UI updates (player turns, win/draw notifications)
+
+# Tech Used
+
+- HTML
+- CSS
+- JavaScript
+
+# Challenge Review
+I completed the challenge: 4
 I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+I think I could have done better with code reusuability. Will look into changing the code by using "this"
