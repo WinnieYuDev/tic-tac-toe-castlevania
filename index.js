@@ -1,4 +1,4 @@
-// NOTES ON JAVASCRIPT CONCEPTS USED 
+// NOTES ON JAVASCRIPT CONCEPTS
 // forEach = executes a specific function (callback) once for each array element. element, index, array are provided 
 // e.g array.forEach((element) => {}); or array.forEach(callback) 
 // map() = creates a new array populated with the results of calling a provided function on every element in the calling array 
@@ -29,6 +29,7 @@
 //  Ensure proper citation of any sources used below all code e.g. tutorials, code snippets, AI tools 
 
 // - array for player one avatar selections. used help of Google AI overview and Co-Pilot for guidance
+
 const playerOneAvatars = [
   { name: "Alucard", src: 'assets/img/avatar/alucard.jpg' },  
   { name: "Carmilla", src: 'assets/img/avatar/carmilla.jpg' },
