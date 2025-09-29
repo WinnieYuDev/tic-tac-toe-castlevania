@@ -25,6 +25,6 @@ Players take turn placing their moves with their unique weapons and the first to
 - JavaScript
 
 # Challenge Review
-I completed the challenge: 4
-I feel good about my code: 4
-I think I could have done better with code reusuability. Will look into changing the code by using "this"
+- I completed the challenge: 4
+- I feel good about my code: 4
+- I think I could have done better with code reusuability. Will look into changing the code by using "this.name"
